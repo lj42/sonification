@@ -4,7 +4,7 @@
 
 
 
-#Ideas
+# Ideas
 
 * Sentiment analysis as represented by music (sad/bad = minor; happy/good = major keys)
 * Detecting outliers based on how “in tune” a data point (a person’s tweet?) is from others 
