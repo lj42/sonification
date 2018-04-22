@@ -1,0 +1,4 @@
+# Ignore following file formats
+*.midi
+.ipynb_checkpoints
+*/.pynb_checkpoints/*
