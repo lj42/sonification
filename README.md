@@ -16,16 +16,16 @@ Shall we start with something easy that will work? YES PLEASE!
 # 1st PHASE SOUND COMES OUT WHEN OUR DATA SAYS SO
 
 0.  Make a first draft of this document: DONE 9 APR 2018
-1.  Make sure this document makes sense
-2.  brainstorm ideas on what would be fun and easy as a first sonification project
-3.  What does everyone love to do? What are people good at? Team List!
-4.  decide on a simple use case where we can play with some ideas
+1.  Make sure this document makes sense NOTFIXED
+2.  brainstorm ideas on what would be fun and easy as a first sonification project DONE JUN 2018
+3.  What does everyone love to do? What are people good at? Team List! ACCEPTABLE VARIANCE OF MUSIC/CODING KNOWLEDGE
+4.  decide on a simple use case where we can play with some ideas DONE JUL 2018
 5.  choose attributes we’d like to be notified about
-6.  work out the tools required for analysing our data set
+6.  work out the tools required for analysing our data set IN PROGRESS
 7.  decide when the attributes reach a point where notification becomes important
-8.  work out how to notify the next program to start the sonification process
+8.  work out how to notify the next program to start the sonification process IN PROGRESS
 9.  create a trigger program that will play sounds at the appropriate times
-10. work out what kind of sounds would work in what context and attach the sounds to events
+10. work out what kind of sounds would work in what context and attach the sounds to events IN PROGRESS
 11. create a plugin, website, app etc that does what we want it to do
 12. It works!! Celebrate our first victory!
 13. NEXT PROJECT IDEAS
