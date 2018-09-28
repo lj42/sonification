@@ -20,7 +20,7 @@ Shall we start with something easy that will work? YES PLEASE!
 2.  brainstorm ideas on what would be fun and easy as a first sonification project DONE JUN 2018
 3.  What does everyone love to do? What are people good at? Team List! ACCEPTABLE VARIANCE OF MUSIC/CODING KNOWLEDGE
 4.  decide on a simple use case where we can play with some ideas DONE JUL 2018
-5.  choose attributes we’d like to be notified about
+5.  choose attributes we’d like to be notified about DONE SEP 2018
 6.  work out the tools required for analysing our data set IN PROGRESS
 7.  decide when the attributes reach a point where notification becomes important
 8.  work out how to notify the next program to start the sonification process IN PROGRESS
@@ -60,10 +60,10 @@ NAME          STUFF                                THINGS                   SOUN
               
               
 4.  decide on a simple use case where we can play with some ideas
-(for example: email subject keywords? RocketChat trigger words? PCAP data? twitter sentiment? )
+(for example: email subject keywords? RocketChat trigger words? PCAP data? twitter sentiment? ) DONE PCAP DATA
 
 5.  choose attributes we’d like to be notified about 
-(Ideally without looking at something for maximum impact … for example: did we spend money or are we being emailed just another social media update, or someone has said something important?)
+(Ideally without looking at something for maximum impact … for example: did we spend money or are we being emailed just another social media update, or someone has said something important?) DONE BASED ON CSV FILE
 
 6.  work out the tools required for analysing our data set
 (for example: a plugin for gmail? a JSON file querying program? could we use sentiment analysis?)
